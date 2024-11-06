@@ -28,8 +28,6 @@
 </template>
 
 <script>
-import axios from 'axios';
-
 export default {
   props: {
     transactions: {
@@ -39,8 +37,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-
-
-</style>
