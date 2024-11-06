@@ -41,7 +41,7 @@ O front-end usa Vue.js com o Vite para desenvolvimento. Está configurado para i
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/swholvey/gestaoclick.git
+   git clone https://github.com/swholvey/sistema-compra-moedas.git
    cd sistema-compra-moedas
    ```
 
